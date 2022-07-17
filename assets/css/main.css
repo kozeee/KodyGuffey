@@ -204,7 +204,7 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
-		rgb(37, 38, 41);
+		color:rgb(37, 38, 41);
 	}
 
 	br.clear {
